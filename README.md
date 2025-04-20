@@ -4,9 +4,9 @@ This is a Python-based quiz game that allows users to test their knowledge in tw
 This game generates multiple rounds, each consisting of various question types including:
 </br>
 <ul>
-Multiple-Choice Questions (MCQs)
-True/False
-Open-Ended Questions
-</ul>
+<li>Multiple-Choice Questions (MCQs)</li>
+  <li>True/False</li>
+  <li>Open-Ended Questions</li>
+  </ul>
 </br>
 The game includes scoring, sound feedback, category selection (GK or Entertainment), a rapid-fire round with a timer, and a leaderboard to track top scores.
