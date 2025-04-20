@@ -1,0 +1,104 @@
+{
+    "rounds": [
+      {
+        "name": "General Knowledge - Round 1",
+        "timer": 30,
+        "questions": [
+          {
+            "type": "multiple-choice",
+            "question": "Who was the first President of the United States?",
+            "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+            "answer": 0
+          },
+          {
+            "type": "true/false",
+            "question": "The Great Wall of China is visible from space.",
+            "answer": "False"
+          },
+          {
+            "type": "open-ended",
+            "question": "What is the capital city of Japan?",
+            "answer": "Tokyo"
+          },
+          {
+            "type": "multiple-choice",
+            "question": "What is the largest planet in our solar system?",
+            "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+            "answer": 1
+          },
+          {
+            "type": "true/false",
+            "question": "Mount Everest is the tallest mountain in the world.",
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "name": "General Knowledge - Round 2",
+        "timer": 30,
+        "questions": [
+          {
+            "type": "multiple-choice",
+            "question": "What is the smallest country in the world?",
+            "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+            "answer": 0
+          },
+          {
+            "type": "true/false",
+            "question": "The Eiffel Tower is located in Paris.",
+            "answer": "True"
+          },
+          {
+            "type": "open-ended",
+            "question": "Which element has the chemical symbol 'O'?",
+            "answer": "Oxygen"
+          },
+          {
+            "type": "multiple-choice",
+            "question": "What is the longest river in the world?",
+            "options": ["Amazon River", "Nile River", "Yangtze River", "Mississippi River"],
+            "answer": 1
+          },
+          {
+            "type": "true/false",
+            "question": "Australia is both a country and a continent.",
+            "answer": "True"
+          }
+        ]
+      },
+      {
+        "name": "General Knowledge - Round 3",
+        "timer": 30,
+        "questions": [
+          {
+            "type": "multiple-choice",
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": ["China", "India", "Japan", "South Korea"],
+            "answer": 2
+          },
+          {
+            "type": "true/false",
+            "question": "Water boils at 90°C at sea level.",
+            "answer": "False"
+          },
+          {
+            "type": "open-ended",
+            "question": "Who invented the telephone?",
+            "answer": "Alexander Graham Bell"
+          },
+          {
+            "type": "multiple-choice",
+            "question": "Which of the following is the hardest natural substance on Earth?",
+            "options": ["Gold", "Diamond", "Iron", "Platinum"],
+            "answer": 1
+          },
+          {
+            "type": "true/false",
+            "question": "Humans have 5 senses.",
+            "answer": "True"
+          }
+        ]
+      }
+    ]
+  }
+  
